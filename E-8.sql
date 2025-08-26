@@ -1,5 +1,4 @@
-8. Insert a record for your favorite Band
-and one of their Albums
+8. Insert a record for your favorite Band and one of their Albums
 INSERT INTO
     bands (id, name)
 VALUES
